@@ -20,4 +20,7 @@ i have completed mt third tutoriaKL BY CREATING welcome.cshtml and by changing t
 
 going for part 4
 
-i have intalled my new versin of nugget package and in updated to it and it is showing no error.It worked
+i have intalled my new versin of nugget package and in updated to it and it is showing no error.It worked\
+
+i adeed the data folder under mvc and i added ,vcmovicecontextfile in it 
+i have added the given cvode on the top of stast.cd file
