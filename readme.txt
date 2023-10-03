@@ -24,3 +24,10 @@ i have intalled my new versin of nugget package and in updated to it and it is s
 
 i adeed the data folder under mvc and i added ,vcmovicecontextfile in it 
 i have added the given cvode on the top of stast.cd file
+added the file in startup.cs related to configure message and its ready to go 
+later on i have to update the startup.cs file so i decided to add configure lines in appsettting.json 
+
+when i tried to add new scaffolding itme in controllers i got error ass oi dont have the exact nuggget manager
+ som i decided to add the foloowing code in dserver
+ firstly i got the order then i looked into .json file and there was extra braces so i decide to dlete it and after that i try to install those 2 packages and aftert the completion i looked 
+ and it automaticalyy createde the migrations folder under data
